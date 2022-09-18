@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924242301789",
+    "project_id": "tablenotes-internshala",
+    "storage_bucket": "tablenotes-internshala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924242301789:android:51dbd28832fc94830fceb4",
+        "android_client_info": {
+          "package_name": "com.tablenotes.internshalaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924242301789-ps6nl8fprasqplfflr9tnb1vsscjdqbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcBoaPHCUqtxa-RmP8rb1ilgdhcGrBWo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924242301789-ps6nl8fprasqplfflr9tnb1vsscjdqbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
